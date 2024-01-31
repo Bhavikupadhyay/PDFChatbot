@@ -1,37 +1,39 @@
-    PDF Chatbot is a Streamlit application that allows users to upload a PDF file and ask questions related to its content. The chatbot uses language processing techniques to provide relevant answers based on the uploaded document.
+# PDF Chatbot
 
-    ## Installation
+PDF Chatbot is a Streamlit application that allows users to upload a PDF file and ask questions related to its content. The chatbot uses language processing techniques to provide relevant answers based on the uploaded document.
 
-    1. Clone the repository:
+## Installation
 
-        ```shell
-        git clone https://github.com/your-username/pdf-chatbot.git
-        ```
+1. Clone the repository:
 
-    2. Install the required dependencies:
+    ```shell
+    git clone https://github.com/Bhavikupadhyay/PDFChatbot.git
+    ```
 
-        ```shell
-        pip install -r requirements.txt
-        ```
+2. Install the required dependencies:
 
-    
-    ## Usage
+    ```shell
+    pip install -r requirements.txt
+    ```
 
-    1. Run the Streamlit application:
+## Usage
 
-        ```shell
-        streamlit run streamlit-app.py
-        ```
-    2. Enter your HuggingFace API Token when prompted in the console.
+1. Run the Streamlit application:
 
-    3. Access the application in your web browser following the link provided.
+    ```shell
+    streamlit run streamlit-app.py
+    ```
 
-    4. Upload a PDF file using the file uploader.
+2. Enter your HuggingFace API Token when prompted in the console.
 
-    5. Enter your question in the text input field and click on the "Ask a Question: " button.
+3. Access the application in your web browser following the provided link.
 
-    6. The chatbot will process your question and provide a response based on the content of the uploaded PDF.
+4. Upload a PDF file using the file uploader.
 
-    ## Contributing
+5. Enter your question in the text input field and click on the "Ask a Question" button.
 
-    Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
+6. The chatbot will process your question and provide a response based on the content of the uploaded PDF.
+
+## Contributing
+
+Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
